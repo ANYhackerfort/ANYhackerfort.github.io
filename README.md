@@ -1,2 +1,4 @@
-# MatthewWebsite
-A website for my work in data science. Feel free to look over my code. 
+# Matthew Zhang's Data Science Website
+## Website that showcases projects and findings in data science
+### ___________________________________________________________________________________________________________________________________________________________
+
